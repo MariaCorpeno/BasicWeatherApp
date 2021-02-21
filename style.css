@@ -1,0 +1,48 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        body {
+            padding-top: 11em;
+            padding-right: 30em;
+            padding-bottom: 30em;
+            padding-left: 30em;
+            background: linear-gradient(to right bottom, rgb(195, 233, 223), rgb(80, 108, 134)) fixed;
+        }
+        
+        p {
+            font-size: 22px;
+            color: rgb(41, 53, 77);
+        }
+        
+        h1 {
+            font-size: 38px;
+            color: rgb(63, 92, 94);
+            font-weight: 200;
+        }
+        
+        h5 {
+            font-size: 45px;
+            font-family: Garamond;
+        }
+        
+        h6 {
+            color: rgb(63, 81, 102);
+            font-size: 45px;
+            font-family: Garamond;
+        }
+        
+        button {
+            background-color: rgb(154, 190, 224);
+            border: rgb(177, 153, 123);
+            border-radius: 9px;
+            padding: 20px;
+            box-shadow: 0 8px 11px 0;
+            cursor: pointer;
+        }
+        
+        #submit {
+            color: rgb(107, 107, 107);
+            padding: 10px 10px 10px 10px;
+        }
